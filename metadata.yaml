@@ -1,0 +1,32 @@
+_repo: Derby-Day-in-the-Yukonand-Other-Poems-of-the--Northland-_33758
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33758-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hayes, Kate Simpson
+    aliases:
+    - Hayes, Kate Simpson Markwell
+    - Markwell, Mary
+    - Hayes, Catherine Ethel
+    - Yukon Bill
+    - Simpson, Kate Hayes
+    birthdate: 1856
+    deathdate: 1945
+    gutenberg_agent_id: '36590'
+    url: http://www.gutenberg.org/2009/agents/36590
+description: ''
+gutenberg_issued: '2010-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33758'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canadian poetry'
+- !lcc 'PS'
+title: Derby Day in the Yukon, and Other Poems of the "Northland"
+url: http://www.gutenberg.org/ebooks/33758
