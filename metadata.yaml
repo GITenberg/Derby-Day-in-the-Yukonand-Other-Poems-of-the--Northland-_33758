@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '36590'
     url: http://www.gutenberg.org/2009/agents/36590
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33758#Derby-Day-in-the-Yukonand-Other-Poems-of-the--Northland-
 gutenberg_issued: '2010-09-19'
 gutenberg_type: Text
 identifiers:
